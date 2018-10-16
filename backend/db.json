@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pedro Diniz",
+      "email": "pedro_nork@hotmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Viviane Alves",
+      "email": "viv_alves96@hotmail.com"
+    }
+  ]
+}
